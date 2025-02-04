@@ -1,0 +1,790 @@
+Colonne2;Animal;Quantite;Nourriture 1;Nourriture 2;Nourriture 3
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Steak appetissant;Boite de conserve ouverte
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Steak appetissant;Boite de conserve ouverte
+;Gros chat mignon;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Boite de conserve ouverte;Napolitains moisis;Viande indefinissable
+;Rat geant;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Jambon-beurre moisi
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Bretzel sableux
+;Serpent de 2 metres;1;Viande indefinissable;Legume suspect;Ailerons de poulet entames
+;Rat geant;1;Viande indefinissable;Steak appetissant;Boite de conserve ouverte
+;Poule;1;Viande indefinissable;Boite de conserve ouverte;Ailerons de poulet entames
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Petits beurres rances
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Legume suspect
+;Gros chat mignon;1;Pim's perime;Steak appetissant;Viande indefinissable
+;Serpent de 2 metres;1;Bon plat fait-maison;Pim's perime;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Pim's perime;Biscuit fade
+;Gros chat mignon;1;Bon plat fait-maison;Paquet de chips molles;Viande indefinissable
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Pim's perime
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Jambon-beurre moisi;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Boite de conserve ouverte;Ailerons de poulet entames
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Poule;1;Jambon-beurre moisi;Bon plat fait-maison;Biscuit fade
+;Cochon malodorant;1;Bretzel sableux;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Pim's perime;Boite de conserve ouverte;Viande indefinissable
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Legume suspect;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Gros chat mignon;1;Legume suspect;Melon d'intestin;Viande indefinissable
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Pim's perime
+;Serpent de 2 metres;1;Steak appetissant;Petits beurres rances;Ailerons de poulet entames
+;Gros chat mignon;1;Steak appetissant;Boite de conserve ouverte;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Boite de conserve ouverte;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Pim's perime;Nouilles chinoises;Viande indefinissable
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Serpent de 2 metres;1;Bretzel sableux;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Bon plat fait-maison;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Nouilles chinoises
+;Poule;1;Viande indefinissable;Boite de conserve ouverte;Bretzel sableux
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Napolitains moisis
+;Cochon malodorant;1;Steak appetissant;Boite de conserve ouverte;Viande indefinissable
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Melon d'intestin
+;Cochon malodorant;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Legume suspect;Viande indefinissable;Steak appetissant
+;Rat geant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Legume suspect;Melon d'intestin
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Petits beurres rances;Biscuit fade
+;Poule;1;Bon plat fait-maison;Viande indefinissable;Boite de conserve ouverte
+;Poule;1;Viande indefinissable;Jambon-beurre moisi;Nouilles chinoises
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Biscuit fade
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Œuf;Steak appetissant
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Œuf;Steak appetissant
+;Gros chat mignon;1;Viande indefinissable;Boite de conserve ouverte;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Poule;1;Steak appetissant;Œuf;Legume suspect
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Legume suspect;Œuf
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Rat geant;1;Boite de conserve ouverte;Chewing-gums seches;Viande indefinissable
+;Poule;1;Viande indefinissable;Boite de conserve ouverte;Bon plat fait-maison
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Biscuit fade
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Nouilles chinoises
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Ailerons de poulet entames
+;Cochon malodorant;1;Steak appetissant;Boite de conserve ouverte;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Ailerons de poulet entames;Steak appetissant
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Napolitains moisis
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Rat geant;1;Nouilles chinoises;Viande humaine;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Petits beurres rances;Chewing-gums seches
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Petits beurres rances
+;Gros chat mignon;1;Viande indefinissable;Jambon-beurre moisi;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Pomme;Legume suspect
+;Serpent de 2 metres;1;Pomme;Legume suspect;Viande indefinissable
+;Serpent de 2 metres;1;Œuf;Legume suspect;Viande indefinissable
+;Cochon malodorant;1;Legume suspect;Viande indefinissable;Pomme
+;Gros chat mignon;1;Viande indefinissable;Bretzel sableux;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Pim's perime
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Gros chat mignon;1;Boite de conserve ouverte;Viande indefinissable;Jambon-beurre moisi
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Poule;1;Pomme;Petits beurres rances;Boite de conserve ouverte
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Rat geant;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Gros chat mignon;1;Bretzel sableux;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Paquet de chips molles
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Nouilles chinoises
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Legume suspect;Petits beurres rances;Viande indefinissable
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Legume suspect;Œuf
+;Rat geant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Boite de conserve ouverte;Legume suspect;Pomme
+;Rat geant;1;Boite de conserve ouverte;Œuf;Viande indefinissable
+;Rat geant;1;Viande indefinissable;Pim's perime;Jambon-beurre moisi
+;Cochon malodorant;1;Viande indefinissable;Melon d'intestin;Bretzel sableux
+;Rat geant;1;Bretzel sableux;Viande indefinissable;Steak appetissant
+;Poule;1;Viande indefinissable;Bretzel sableux;Napolitains moisis
+;Cochon malodorant;1;Viande indefinissable;Jambon-beurre moisi;Steak appetissant
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Paquet de chips molles
+;Gros chat mignon;1;Boite de conserve ouverte;Viande indefinissable;Jambon-beurre moisi
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Œuf;Bon plat fait-maison;Viande indefinissable
+;Poule;1;Bon plat fait-maison;Viande indefinissable;Œuf
+;Petit chaton furieux (partiellement digere);1;Œuf;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Legume suspect;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Pomme
+;Petit chaton furieux (partiellement digere);1;Legume suspect;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Melon d'intestin
+;Petit chaton furieux (partiellement digere);1;Legume suspect;Steak appetissant;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Napolitains moisis
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Rat geant;1;Steak appetissant;Viande indefinissable;Petits beurres rances
+;Gros chat mignon;1;Petits beurres rances;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Poule;1;Bon plat fait-maison;Viande indefinissable;Boite de conserve ouverte
+;Cochon malodorant;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Cochon malodorant;1;Nouilles chinoises;Steak appetissant;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Biscuit fade;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Paquet de chips molles
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Citrouille impressionnante
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Rat geant;1;Pomme;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Œuf
+;Cochon malodorant;1;Œuf;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Œuf
+;Poule;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Boite de conserve ouverte
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Jambon-beurre moisi
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Rat geant;1;Bon plat fait-maison;Steak appetissant;Boite de conserve ouverte
+;Cochon malodorant;1;Viande indefinissable;Biscuit fade;Bon plat fait-maison
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Bon plat fait-maison;Biscuit fade;Plat fait-maison douteux
+;Rat geant;1;Nouilles chinoises;Plat fait-maison douteux;Viande indefinissable
+;Gros chat mignon;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Poule;1;Melon d'intestin;Viande indefinissable;Boite de conserve ouverte
+;Gros chat mignon;1;Jambon-beurre moisi;Boite de conserve ouverte;Viande indefinissable
+;Rat geant;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Biscuit fade
+;Rat geant;1;Bon plat fait-maison;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Œuf;Steak appetissant
+;Gros chat mignon;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Œuf;Bon plat fait-maison
+;Cochon malodorant;1;Pomme;Legume suspect;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Legume suspect;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Steak appetissant
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Boite de conserve ouverte;Steak appetissant;Jambon-beurre moisi
+;Rat geant;1;Bon plat fait-maison;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Poule;1;Melon d'intestin;Boite de conserve ouverte;Viande indefinissable
+;Poule;1;Ailerons de poulet entames;Jambon-beurre moisi;Petits beurres rances
+;Rat geant;1;Boite de conserve ouverte;Viande indefinissable;Bretzel sableux
+;Gros chat mignon;1;Bon plat fait-maison;Bretzel sableux;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Œuf
+;Rat geant;1;Steak appetissant;Melon d'intestin;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Œuf
+;Cochon malodorant;1;Viande indefinissable;Bon plat fait-maison;Œuf
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Gros chat mignon;1;Plat fait-maison douteux;Steak appetissant;Viande indefinissable
+;Rat geant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Nouilles chinoises;Steak appetissant
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Bretzel sableux
+;Rat geant;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Legume suspect;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Ailerons de poulet entames;Biscuit fade
+;Rat geant;1;Steak appetissant;Plat fait-maison douteux;Petits beurres rances
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bretzel sableux
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Plat fait-maison douteux
+;Gros chat mignon;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Poule;1;Steak appetissant;Napolitains moisis;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Ailerons de poulet entames;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Melon d'intestin
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Gros chat mignon;1;Œuf;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Plat fait-maison douteux;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Œuf
+;Gros chat mignon;1;Legume suspect;Viande indefinissable;Steak appetissant
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Legume suspect;Œuf
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Rat geant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Gros chat mignon;1;Bretzel sableux;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Melon d'intestin;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Gros chat mignon;1;Nouilles chinoises;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Petits beurres rances
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Biscuit fade
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Rat geant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Œuf
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Rat geant;1;Viande indefinissable;Legume suspect;Pomme
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Œuf
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Rat geant;1;Viande indefinissable;Steak appetissant;Chewing-gums seches
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Viande indefinissable;Bretzel sableux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bretzel sableux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Chewing-gums seches
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Nouilles chinoises
+;Poule;1;Bon plat fait-maison;Boite de conserve ouverte;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Poule;1;Boite de conserve ouverte;Viande indefinissable;Biscuit fade
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Jambon-beurre moisi;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Biscuit fade
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Bon plat fait-maison;Œuf
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Teckel galeux;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Plat fait-maison douteux;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Œuf;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Legume suspect;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Nouilles chinoises
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Plat fait-maison douteux
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Legume suspect;Viande indefinissable
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Poule;1;Viande indefinissable;Steak appetissant;Napolitains moisis
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Pomme
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Poule;1;Viande indefinissable;Nouilles chinoises epicees;Bon plat fait-maison
+;Gros chat mignon;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Jambon-beurre moisi
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Boite de conserve ouverte;Viande indefinissable
+;Cochon malodorant;1;Bon plat fait-maison;Biscuit fade;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Bon plat fait-maison;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Pomme
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Rat geant;1;Steak appetissant;Viande indefinissable;Œuf
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Legume suspect;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Poule;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Rat geant;1;Viande indefinissable;Legume suspect;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Plat fait-maison douteux;Legume suspect
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Pomme
+;Gros chat mignon;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Rat geant;1;Viande indefinissable;Steak appetissant;Œuf
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Pomme;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Teckel galeux;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Pomme
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Melon d'intestin
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Melon d'intestin
+;Teckel galeux;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Pomme
+;Rat geant;1;Viande indefinissable;Legume suspect;Œuf
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Rat geant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Rat geant;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Poule;1;Viande indefinissable;Boite de conserve ouverte;Nouilles chinoises
+;Gros chat mignon;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Steak appetissant;Plat fait-maison douteux;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Steak appetissant;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Melon d'intestin;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Teckel galeux;1;Pomme;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Œuf;Steak appetissant
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Pomme;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Melon d'intestin;Legume suspect
+;Serpent de 2 metres;1;Legume suspect;Steak appetissant;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Pomme
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Melon d'intestin;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Œuf
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Rat geant;1;Steak appetissant;Viande indefinissable;Pomme
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Œuf;Steak appetissant;Viande indefinissable
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Paquet de chips molles;Melon d'intestin
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Œuf
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Rat geant;1;Steak appetissant;Plat fait-maison douteux;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Rat geant;1;Steak appetissant;Viande indefinissable;Pomme
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Serpent de 2 metres;1;Legume suspect;Bon plat fait-maison;Viande indefinissable
+;Teckel galeux;1;Œuf;Viande indefinissable;Steak appetissant
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Rat geant;1;Legume suspect;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Rat geant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Boite de conserve ouverte;Viande indefinissable;Legume suspect
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Teckel galeux;1;Plat fait-maison douteux;Boite de conserve ouverte;Pomme
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Viande indefinissable;Pomme
+;Rat geant;1;Viande indefinissable;Chewing-gums seches;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Paquet de chips molles;Napolitains moisis
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Rat geant;1;Viande indefinissable;Steak appetissant;Jambon-beurre moisi
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Œuf;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Œuf;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Bon plat fait-maison;Biscuit fade;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Poule;1;Viande indefinissable;Bretzel sableux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Viande indefinissable;Nouilles chinoises;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Pim's perime;Bon plat fait-maison
+;Teckel galeux;1;Legume suspect;Steak appetissant;Viande indefinissable
+;Poule;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Poule;1;Viande indefinissable;Legume suspect;Œuf
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Legume suspect;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Bon plat fait-maison;Legume suspect;Plat fait-maison douteux
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Ailerons de poulet entames;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Bon plat fait-maison;Melon d'intestin
+;Poule;1;Viande indefinissable;Plat fait-maison douteux;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Rat geant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Bon plat fait-maison;Nouilles chinoises
+;Rat geant;1;Bon plat fait-maison;Melon d'intestin;Viande indefinissable
+;Serpent de 2 metres;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Boite de conserve ouverte;Viande indefinissable;Nouilles chinoises
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Rat geant;1;Viande indefinissable;Nouilles chinoises;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Bon plat fait-maison;Melon d'intestin
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Œuf
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Œuf
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Œuf;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Legume suspect
+;Cochon malodorant;1;Œuf;Legume suspect;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Pim's perime
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Poule;1;Viande indefinissable;Legume suspect;Nouilles chinoises
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Bon plat fait-maison;Boite de conserve ouverte
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Jambon-beurre moisi;Pim's perime
+;Gros chat mignon;1;Boite de conserve ouverte;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Steak appetissant;Pim's perime
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Steak appetissant;Paquet de chips molles
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Steak appetissant;Ailerons de poulet entames
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Steak appetissant;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Bretzel sableux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Petits beurres rances;Biscuit fade
+;Serpent de 2 metres;1;Petits beurres rances;Bon plat fait-maison;Pim's perime
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Boite de conserve ouverte;Viande indefinissable;Œuf
+;Cochon malodorant;1;Bon plat fait-maison;Œuf;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Bon plat fait-maison;Plat fait-maison douteux
+;Cochon malodorant;1;Legume suspect;Viande indefinissable;Plat fait-maison douteux
+;Teckel galeux;1;Viande indefinissable;Bon plat fait-maison;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Poule;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Melon d'intestin
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Rat geant;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Legume suspect
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Biscuit fade
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Œuf
+;Cochon malodorant;1;Pomme;Viande indefinissable;Pim's perime
+;Cochon malodorant;1;Viande indefinissable;Pomme;Jambon-beurre moisi
+;Poule;1;Viande indefinissable;Œuf;Ailerons de poulet entames
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Ailerons de poulet entames
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Ailerons de poulet entames;Bretzel sableux
+;Serpent de 2 metres;1;Viande indefinissable;Petits beurres rances;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Jambon-beurre moisi
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Boite de conserve ouverte
+;Gros chat mignon;1;Viande indefinissable;Jambon-beurre moisi;Bon plat fait-maison
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Boite de conserve ouverte
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Boite de conserve ouverte
+;Gros chat mignon;1;Viande indefinissable;Pim's perime;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Melon d'intestin
+;Cochon malodorant;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Plat fait-maison douteux
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Plat fait-maison douteux;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Nouilles chinoises epicees
+;Poule;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Bretzel sableux;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Legume suspect;Bretzel sableux
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Bretzel sableux
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Viande indefinissable;Bon plat fait-maison;Ailerons de poulet entames
+;Poule;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Boite de conserve ouverte;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Teckel galeux;1;Viande indefinissable;Œuf;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Ailerons de poulet entames
+;Teckel galeux;1;Steak appetissant;Viande indefinissable;Petits beurres rances
+;Serpent de 2 metres;1;Viande indefinissable;Boite de conserve ouverte;Steak appetissant
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Ailerons de poulet entames;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Nouilles chinoises;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Œuf
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Steak appetissant
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Legume suspect
+;Poule;1;Œuf;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Bon plat fait-maison;Plat fait-maison douteux;Nouilles chinoises
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Legume suspect
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Bon plat fait-maison;Viande indefinissable;Nouilles chinoises
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Pomme;Viande indefinissable;Bretzel sableux
+;Gros chat mignon;1;Viande indefinissable;Bon plat fait-maison;Boite de conserve ouverte
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Rat geant;1;Steak appetissant;Viande indefinissable;Boite de conserve ouverte
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Rat geant;1;Plat fait-maison douteux;Viande indefinissable;Steak appetissant
+;Poule;1;Melon d'intestin;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Legume suspect;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Œuf
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Steak appetissant;Nouilles chinoises
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Nouilles chinoises;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bretzel sableux
+;Cochon malodorant;1;Plat fait-maison douteux;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Œuf;Plat fait-maison douteux;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Nouilles chinoises;Steak appetissant
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Chamallows seches
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Legume suspect;Plat fait-maison douteux
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Gros chat mignon;1;Viande indefinissable;Petits beurres rances;Ailerons de poulet entames
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Ailerons de poulet entames
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Petits beurres rances
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Biscuit fade;Bon plat fait-maison
+;Rat geant;1;Boite de conserve ouverte;Paquet de chips molles;Bon plat fait-maison
+;Teckel galeux;1;Steak appetissant;Boite de conserve ouverte;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Ailerons de poulet entames
+;Gros chat mignon;1;Viande indefinissable;Plat fait-maison douteux;Steak appetissant
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Serpent de 2 metres;1;Legume suspect;Viande indefinissable;Steak appetissant
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Cochon malodorant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Œuf
+;Rat geant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Ailerons de poulet entames
+;Gros chat mignon;1;Viande indefinissable;Steak appetissant;Bon plat fait-maison
+;Poule;1;Nouilles chinoises;Viande indefinissable;Pomme
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Pim's perime
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Legume suspect;Steak appetissant
+;Gros chat mignon;1;Bon plat fait-maison;Legume suspect;Viande indefinissable
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Nouilles chinoises
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Œuf
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Rat geant;1;Pomme;Viande indefinissable;Plat fait-maison douteux
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Boite de conserve ouverte;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Boite de conserve ouverte;Steak appetissant;Nouilles chinoises
+;Rat geant;1;Boite de conserve ouverte;Steak appetissant;Viande indefinissable
+;Gros chat mignon;1;Viande indefinissable;Ailerons de poulet entames;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Ailerons de poulet entames
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Biscuit fade
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Petits beurres rances
+;Poule;1;Legume suspect;Nouilles chinoises;Viande indefinissable
+;Rat geant;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Steak appetissant
+;Serpent de 2 metres;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Viande indefinissable;Bon plat fait-maison;Jambon-beurre moisi
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Œuf
+;Cochon malodorant;1;Melon d'intestin;Steak appetissant;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Steak appetissant;Melon d'intestin
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Nouilles chinoises
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Bretzel sableux
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bretzel sableux
+;Rat geant;1;Viande indefinissable;Steak appetissant;Nouilles chinoises
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Steak appetissant
+;Cochon malodorant;1;Chamallows seches;Plat fait-maison douteux;Steak appetissant
+;Rat geant;1;Viande indefinissable;Plat fait-maison douteux;Pomme
+;Poule;1;Viande indefinissable;Nouilles chinoises;Bon plat fait-maison
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Legume suspect
+;Rat geant;1;Viande indefinissable;Bon plat fait-maison;Chamallows seches
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Serpent de 2 metres;1;Viande indefinissable;Nouilles chinoises;Bretzel sableux
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Rat geant;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Teckel galeux;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Viande indefinissable;Steak appetissant;Plat fait-maison douteux
+;Cochon malodorant;1;Steak appetissant;Bon plat fait-maison;Œuf
+;Serpent de 2 metres;1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Poule;1;Viande indefinissable;Bon plat fait-maison;Biscuit fade
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Steak appetissant;Citrouille impressionnante
+;Gros chat mignon;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Cochon malodorant;1;Paquet de chips molles;Steak appetissant;Melon d'intestin
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Melon d'intestin
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Biscuit fade
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Melon d'intestin
+;Rat geant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Œuf
+;Rat geant;1;Steak appetissant;Petits beurres rances;Viande indefinissable
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Chamallows seches
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Bon plat fait-maison
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Œuf
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Viande indefinissable;Plat fait-maison douteux;Pomme
+;Gros chat mignon;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Melon d'intestin
+;Cochon malodorant;1;Bon plat fait-maison;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Legume suspect
+;Gros chat mignon;1;Viande indefinissable;Legume suspect;Steak appetissant
+;Gros chat mignon;1;Bon plat fait-maison;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Steak appetissant;Viande indefinissable;Legume suspect
+;Poule;1;Bon plat fait-maison;Legume suspect;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Serpent de 2 metres;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Rat geant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Ailerons de poulet entames;Bon plat fait-maison
+;Gros chat mignon;1;Melon d'intestin;Viande indefinissable;Boite de conserve ouverte
+;Cochon malodorant;1;Steak appetissant;Viande indefinissable;Plat fait-maison douteux
+;Serpent de 2 metres;1;Viande indefinissable;Steak appetissant;Nouilles chinoises
+;Gros chat mignon;1;Legume suspect;Melon d'intestin;Viande indefinissable
+;Petit chaton furieux (partiellement digere);1;Steak appetissant;Viande indefinissable;Legume suspect
+;Petit chaton furieux (partiellement digere);1;Viande indefinissable;Plat fait-maison douteux;Bon plat fait-maison
+;Rat geant;1;Plat fait-maison douteux;Bon plat fait-maison;Viande indefinissable
+;Cochon malodorant;1;Plat fait-maison douteux;Bon plat fait-maison;Legume suspect
+;Rat geant;1;Legume suspect;Bon plat fait-maison;Melon d'intestin
+;Gros chat mignon;1;Steak appetissant;Legume suspect;Plat fait-maison douteux

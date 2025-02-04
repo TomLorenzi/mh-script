@@ -1,0 +1,790 @@
+Colonne1;Colonne2;Nourriture 1;Nourriture 1 (B6/B7);Nourriture 2;Nourriture 2 (B6/B7);Nourriture 3;Nourriture 3 (B6/B7);Suite de nourritures;Animal;Quantite
+;;Viande indefinissable;B6;Steak appetissant;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Napolitains moisis;B6;Viande indefinissable;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Jambon-beurre moisi;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Ailerons de poulet entames;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Ailerons de poulet entames;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Legume suspect;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Pim's perime;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Pim's perime;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Pim's perime;B6;Biscuit fade;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Paquet de chips molles;B6;Viande indefinissable;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Pim's perime;B6;B6 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Jambon-beurre moisi;B6;Bon plat fait-maison;B7;Biscuit fade;B6;B6 + B7 + B6;Poule;1
+;;Bretzel sableux;B6;Viande indefinissable;B6;Legume suspect;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Teckel galeux;1
+;;Pim's perime;B6;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Legume suspect;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Legume suspect;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Legume suspect;B6;Melon d'intestin;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Pim's perime;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Petits beurres rances;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Pim's perime;B6;Nouilles chinoises;B6;Viande indefinissable;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Bretzel sableux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Nouilles chinoises;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Bretzel sableux;B6;B6 + B6 + B6;Poule;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Napolitains moisis;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Melon d'intestin;B7;B6 + B6 + B7;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Petits beurres rances;B6;Biscuit fade;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Nouilles chinoises;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Biscuit fade;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Œuf;B7;Legume suspect;B6;B7 + B7 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Chewing-gums seches;B6;Viande indefinissable;B6;B6 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Biscuit fade;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Nouilles chinoises;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Ailerons de poulet entames;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Napolitains moisis;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Teckel galeux;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Rat geant;1
+;;Nouilles chinoises;B6;Viande humaine;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Petits beurres rances;B6;Chewing-gums seches;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Pomme;B7;Legume suspect;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Pomme;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Œuf;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Legume suspect;B6;Viande indefinissable;B6;Pomme;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Jambon-beurre moisi;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Pomme;B7;Petits beurres rances;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Bretzel sableux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Paquet de chips molles;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Nouilles chinoises;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Rat geant;1
+;;Legume suspect;B6;Petits beurres rances;B6;Viande indefinissable;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Legume suspect;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Legume suspect;B6;Pomme;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Œuf;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Pim's perime;B6;Jambon-beurre moisi;B6;B6 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Melon d'intestin;B7;Bretzel sableux;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Bretzel sableux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Napolitains moisis;B6;B6 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Paquet de chips molles;B6;B6 + B7 + B6;Rat geant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Jambon-beurre moisi;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Teckel galeux;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Œuf;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Poule;1
+;;Œuf;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Pomme;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Legume suspect;B6;Melon d'intestin;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Legume suspect;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Rat geant;1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Napolitains moisis;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Rat geant;1
+;;Petits beurres rances;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Nouilles chinoises;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Biscuit fade;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Paquet de chips molles;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Citrouille impressionnante;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Pomme;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Œuf;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Jambon-beurre moisi;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Boîte de conserve ouverte;B6;B7 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Biscuit fade;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Biscuit fade;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Nouilles chinoises;B6;Plat fait-maison douteux;B6;Viande indefinissable;B6;B6 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Melon d'intestin;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Poule;1
+;;Jambon-beurre moisi;B6;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Biscuit fade;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Œuf;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Petit chaton furieux (partiellement digere);1
+;;Pomme;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Legume suspect;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Jambon-beurre moisi;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Melon d'intestin;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Poule;1
+;;Ailerons de poulet entames;B6;Jambon-beurre moisi;B6;Petits beurres rances;B6;B6 + B6 + B6;Poule;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bretzel sableux;B6;B6 + B6 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Bretzel sableux;B6;Viande indefinissable;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Melon d'intestin;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Œuf;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Legume suspect;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Biscuit fade;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Plat fait-maison douteux;B6;Petits beurres rances;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Steak appetissant;B7;Napolitains moisis;B6;Viande indefinissable;B6;B7 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Ailerons de poulet entames;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Melon d'intestin;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Œuf;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bretzel sableux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Melon d'intestin;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Legume suspect;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Nouilles chinoises;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Biscuit fade;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Œuf;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Pomme;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Chewing-gums seches;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Teckel galeux;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Chewing-gums seches;B6;B6 + B7 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Nouilles chinoises;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Poule;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Biscuit fade;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Jambon-beurre moisi;B6;Viande indefinissable;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Biscuit fade;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Œuf;B7;B6 + B7 + B7;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Legume suspect;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Nouilles chinoises;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Napolitains moisis;B6;B6 + B7 + B6;Poule;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Pomme;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Nouilles chinoises epicees;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Poule;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Jambon-beurre moisi;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Teckel galeux;1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Biscuit fade;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pomme;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Plat fait-maison douteux;B6;B6 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Plat fait-maison douteux;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Pomme;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Steak appetissant;B7;Œuf;B7;B6 + B7 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Pomme;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pomme;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Melon d'intestin;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Steak appetissant;B7;Melon d'intestin;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Pomme;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Nouilles chinoises;B6;B6 + B6 + B6;Poule;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Bon plat fait-maison;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Melon d'intestin;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Pomme;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Teckel galeux;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Pomme;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Melon d'intestin;B7;Legume suspect;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Legume suspect;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Pomme;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Melon d'intestin;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Rat geant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pomme;B7;B7 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Œuf;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Rat geant;1
+;;Steak appetissant;B7;Paquet de chips molles;B6;Melon d'intestin;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Rat geant;1
+;;Steak appetissant;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pomme;B7;B7 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Legume suspect;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Œuf;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Legume suspect;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Legume suspect;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Rat geant;1
+;;Plat fait-maison douteux;B6;Boîte de conserve ouverte;B6;Pomme;B7;B6 + B6 + B7;Teckel galeux;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Pomme;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Chewing-gums seches;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Paquet de chips molles;B6;Napolitains moisis;B6;B6 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Jambon-beurre moisi;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Œuf;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Œuf;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Biscuit fade;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Pim's perime;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Legume suspect;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Teckel galeux;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Legume suspect;B6;Œuf;B7;B6 + B6 + B7;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Legume suspect;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Melon d'intestin;B7;B6 + B7 + B7;Poule;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Legume suspect;B6;B6 + B6 + B6;Poule;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Nouilles chinoises;B6;B6 + B7 + B6;Poule;1
+;;Bon plat fait-maison;B7;Melon d'intestin;B7;Viande indefinissable;B6;B7 + B7 + B6;Rat geant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Nouilles chinoises;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Melon d'intestin;B7;B6 + B7 + B7;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Œuf;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Teckel galeux;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Œuf;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Legume suspect;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Œuf;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Nouilles chinoises;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Pim's perime;B6;B6 + B6 + B6;Rat geant;1
+;;Boîte de conserve ouverte;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Pim's perime;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Steak appetissant;B7;Paquet de chips molles;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Ailerons de poulet entames;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Petits beurres rances;B6;Biscuit fade;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Petits beurres rances;B6;Bon plat fait-maison;B7;Pim's perime;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Œuf;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Œuf;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Legume suspect;B6;Viande indefinissable;B6;Plat fait-maison douteux;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Teckel galeux;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Poule;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Legume suspect;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Melon d'intestin;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Biscuit fade;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Œuf;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Pomme;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Pomme;B7;Jambon-beurre moisi;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Œuf;B7;Ailerons de poulet entames;B6;B6 + B7 + B6;Poule;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Bretzel sableux;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Petits beurres rances;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Jambon-beurre moisi;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Jambon-beurre moisi;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Pim's perime;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Melon d'intestin;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Nouilles chinoises epicees;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Viande indefinissable;B6;Bretzel sableux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Legume suspect;B6;Bretzel sableux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Ailerons de poulet entames;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Œuf;B7;Steak appetissant;B7;B6 + B7 + B7;Teckel galeux;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Teckel galeux;1
+;;Viande indefinissable;B6;Boîte de conserve ouverte;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Ailerons de poulet entames;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Steak appetissant;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Legume suspect;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Œuf;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Poule;1
+;;Bon plat fait-maison;B7;Plat fait-maison douteux;B6;Nouilles chinoises;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Steak appetissant;B7;Legume suspect;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Nouilles chinoises;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Pomme;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Boîte de conserve ouverte;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Rat geant;1
+;;Melon d'intestin;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Poule;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Legume suspect;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Nouilles chinoises;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Œuf;B7;Plat fait-maison douteux;B6;Viande indefinissable;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Chamallows seches;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Plat fait-maison douteux;B6;B6 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Petits beurres rances;B6;Ailerons de poulet entames;B6;B6 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Petits beurres rances;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Biscuit fade;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Boîte de conserve ouverte;B6;Paquet de chips molles;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Boîte de conserve ouverte;B6;Viande indefinissable;B6;B7 + B6 + B6;Teckel galeux;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Ailerons de poulet entames;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Rat geant;1
+;;Legume suspect;B6;Viande indefinissable;B6;Steak appetissant;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Bon plat fait-maison;B7;B6 + B7 + B7;Gros chat mignon;1
+;;Nouilles chinoises;B6;Viande indefinissable;B6;Pomme;B7;B6 + B6 + B7;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Pim's perime;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Viande indefinissable;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Nouilles chinoises;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Œuf;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Pomme;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Viande indefinissable;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Nouilles chinoises;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Boîte de conserve ouverte;B6;Steak appetissant;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Ailerons de poulet entames;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Biscuit fade;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Petits beurres rances;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Legume suspect;B6;Nouilles chinoises;B6;Viande indefinissable;B6;B6 + B6 + B6;Poule;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Steak appetissant;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Jambon-beurre moisi;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Melon d'intestin;B7;Steak appetissant;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Viande indefinissable;B6;B7 + B7 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Melon d'intestin;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Nouilles chinoises;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bretzel sableux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Nouilles chinoises;B6;B6 + B7 + B6;Rat geant;1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Chamallows seches;B6;Plat fait-maison douteux;B6;Steak appetissant;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Pomme;B7;B6 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Poule;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Legume suspect;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Chamallows seches;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Nouilles chinoises;B6;Bretzel sableux;B6;B6 + B6 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Teckel galeux;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Plat fait-maison douteux;B6;B6 + B7 + B6;Rat geant;1
+;;Steak appetissant;B7;Bon plat fait-maison;B7;Œuf;B7;B7 + B7 + B7;Cochon malodorant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Bon plat fait-maison;B7;Biscuit fade;B6;B6 + B7 + B6;Poule;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Citrouille impressionnante;B7;B6 + B7 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Gros chat mignon;1
+;;Paquet de chips molles;B6;Steak appetissant;B7;Melon d'intestin;B7;B6 + B7 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Melon d'intestin;B7;B7 + B6 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Biscuit fade;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Melon d'intestin;B7;B6 + B7 + B7;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Rat geant;1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Œuf;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Petits beurres rances;B6;Viande indefinissable;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Chamallows seches;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Bon plat fait-maison;B7;B7 + B6 + B7;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Œuf;B7;B7 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Pomme;B7;B6 + B6 + B7;Cochon malodorant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Viande indefinissable;B6;Legume suspect;B6;Melon d'intestin;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Legume suspect;B6;Steak appetissant;B7;B6 + B6 + B7;Gros chat mignon;1
+;;Bon plat fait-maison;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Serpent de 2 metres;1
+;;Bon plat fait-maison;B7;Legume suspect;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Poule;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Rat geant;1
+;;Viande indefinissable;B6;Ailerons de poulet entames;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Melon d'intestin;B7;Viande indefinissable;B6;Boîte de conserve ouverte;B6;B7 + B6 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Cochon malodorant;1
+;;Viande indefinissable;B6;Steak appetissant;B7;Nouilles chinoises;B6;B6 + B7 + B6;Serpent de 2 metres;1
+;;Legume suspect;B6;Melon d'intestin;B7;Viande indefinissable;B6;B6 + B7 + B6;Gros chat mignon;1
+;;Steak appetissant;B7;Viande indefinissable;B6;Legume suspect;B6;B7 + B6 + B6;Petit chaton furieux (partiellement digere);1
+;;Viande indefinissable;B6;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;B6 + B6 + B7;Petit chaton furieux (partiellement digere);1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Viande indefinissable;B6;B6 + B7 + B6;Rat geant;1
+;;Plat fait-maison douteux;B6;Bon plat fait-maison;B7;Legume suspect;B6;B6 + B7 + B6;Cochon malodorant;1
+;;Legume suspect;B6;Bon plat fait-maison;B7;Melon d'intestin;B7;B6 + B7 + B7;Rat geant;1
+;;Steak appetissant;B7;Legume suspect;B6;Plat fait-maison douteux;B6;B7 + B6 + B6;Gros chat mignon;1
